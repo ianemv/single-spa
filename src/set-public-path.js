@@ -1,3 +1,3 @@
 import { setPublicPath } from "systemjs-webpack-interop";
 
-setPublicPath("@ian-test/ian-test");
+setPublicPath("@ian-test/single-spa");
