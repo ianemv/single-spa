@@ -5,7 +5,7 @@ function PlanetPage(props) {
   return (
     <Container>
       <Row>
-        <Col sm={4}>Planet</Col>
+        <Col sm={4}>Planet - APp ongoing</Col>
         <Col sm={8}></Col>
       </Row>
     </Container>
